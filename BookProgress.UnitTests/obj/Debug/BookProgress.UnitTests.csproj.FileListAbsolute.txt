@@ -1,0 +1,16 @@
+C:\Users\Serhii\source\repos\BookProgress\BookProgress.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Serhii\source\repos\BookProgress\BookProgress.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Serhii\source\repos\BookProgress\BookProgress.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Serhii\source\repos\BookProgress\BookProgress.UnitTests\bin\Debug\BookProgress.UnitTests.dll
+C:\Users\Serhii\source\repos\BookProgress\BookProgress.UnitTests\bin\Debug\BookProgress.UnitTests.pdb
+C:\Users\Serhii\source\repos\BookProgress\BookProgress.UnitTests\bin\Debug\BookProgress.exe
+C:\Users\Serhii\source\repos\BookProgress\BookProgress.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Serhii\source\repos\BookProgress\BookProgress.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Serhii\source\repos\BookProgress\BookProgress.UnitTests\bin\Debug\BookProgress.pdb
+C:\Users\Serhii\source\repos\BookProgress\BookProgress.UnitTests\bin\Debug\BookProgress.exe.config
+C:\Users\Serhii\source\repos\BookProgress\BookProgress.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Serhii\source\repos\BookProgress\BookProgress.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Serhii\source\repos\BookProgress\BookProgress.UnitTests\obj\Debug\BookProgress.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Serhii\source\repos\BookProgress\BookProgress.UnitTests\obj\Debug\BookProgress.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Serhii\source\repos\BookProgress\BookProgress.UnitTests\obj\Debug\BookProgress.UnitTests.dll
+C:\Users\Serhii\source\repos\BookProgress\BookProgress.UnitTests\obj\Debug\BookProgress.UnitTests.pdb

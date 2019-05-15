@@ -1,0 +1,7 @@
+C:\Users\Serhii\source\repos\BookProgress\BookProgress\bin\Debug\BookProgress.exe.config
+C:\Users\Serhii\source\repos\BookProgress\BookProgress\bin\Debug\BookProgress.exe
+C:\Users\Serhii\source\repos\BookProgress\BookProgress\bin\Debug\BookProgress.pdb
+C:\Users\Serhii\source\repos\BookProgress\BookProgress\obj\Debug\BookProgress.csprojResolveAssemblyReference.cache
+C:\Users\Serhii\source\repos\BookProgress\BookProgress\obj\Debug\BookProgress.csproj.CoreCompileInputs.cache
+C:\Users\Serhii\source\repos\BookProgress\BookProgress\obj\Debug\BookProgress.exe
+C:\Users\Serhii\source\repos\BookProgress\BookProgress\obj\Debug\BookProgress.pdb
